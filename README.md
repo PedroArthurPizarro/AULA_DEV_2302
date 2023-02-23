@@ -7,4 +7,4 @@
 
 ![This is an image![image](https://raw.githubusercontent.com/PedroArthurPizarro/AULA_DEV_2302/main/287849.jpg)]
 
-![This is an image![image](https://raw.githubusercontent.com/PedroArthurPizarro/AULA_DEV_2302/main/IMG/download__5_.0.jpg****)]
+![This is an image![image](https://raw.githubusercontent.com/PedroArthurPizarro/AULA_DEV_2302/main/IMG/download__5_.0.jpg)]
